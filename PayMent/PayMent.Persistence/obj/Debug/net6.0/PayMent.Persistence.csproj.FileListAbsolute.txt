@@ -1,0 +1,17 @@
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\PayMent.Persistence.csproj.AssemblyReference.cache
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\PayMent.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\PayMent.Persistence.AssemblyInfoInputs.cache
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\PayMent.Persistence.AssemblyInfo.cs
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\PayMent.Persistence.csproj.CoreCompileInputs.cache
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\bin\Debug\net6.0\PayMent.Persistence.deps.json
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\bin\Debug\net6.0\PayMent.Persistence.runtimeconfig.json
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\bin\Debug\net6.0\PayMent.Persistence.dll
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\bin\Debug\net6.0\PayMent.Persistence.pdb
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\bin\Debug\net6.0\PayMent.Entity.dll
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\bin\Debug\net6.0\PayMent.Entity.pdb
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\PayMent.Persistence.csproj.CopyComplete
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\PayMent.Persistence.dll
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\refint\PayMent.Persistence.dll
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\PayMent.Persistence.pdb
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\PayMent.Persistence.genruntimeconfig.cache
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Persistence\obj\Debug\net6.0\ref\PayMent.Persistence.dll

@@ -1,0 +1,12 @@
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\bin\Debug\net6.0\PayMent.Entity.deps.json
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\bin\Debug\net6.0\PayMent.Entity.dll
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\bin\Debug\net6.0\PayMent.Entity.pdb
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\obj\Debug\net6.0\PayMent.Entity.csproj.AssemblyReference.cache
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\obj\Debug\net6.0\PayMent.Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\obj\Debug\net6.0\PayMent.Entity.AssemblyInfoInputs.cache
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\obj\Debug\net6.0\PayMent.Entity.AssemblyInfo.cs
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\obj\Debug\net6.0\PayMent.Entity.csproj.CoreCompileInputs.cache
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\obj\Debug\net6.0\PayMent.Entity.dll
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\obj\Debug\net6.0\refint\PayMent.Entity.dll
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\obj\Debug\net6.0\PayMent.Entity.pdb
+F:\Projects\3119410332_PhanAnhQuan\PayMent\PayMent.Entity\obj\Debug\net6.0\ref\PayMent.Entity.dll
